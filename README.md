@@ -2,11 +2,11 @@
 
 A simple Discord bot with a few embed creation commands, that secretly allows you only to DM it and be unbanned from your own server and given admin role back, to use in the case of being hacked or having your server hijacked. In the code, you can choose the ID of the only user who will be able to do this, and to most people in a server it will just appear as a bot to create embeds easily.
 
-# Setup
+## Setup
 
-Firstly, make sure Python is installed. For a guide on how to do this, go to [(https://realpython.com/installing-python/)].
+Firstly, make sure Python is installed. For a guide on how to do this, go to https://realpython.com/installing-python/.
 
-Then, install the Discord module for Python, use this: [(https://pypi.org/project/discord.py/)].
+Then, install the Discord module for Python, use this: https://pypi.org/project/discord.py/.
 
 Next, download the main.py file from this repository, and note down where it is being stored on your computer.
 
